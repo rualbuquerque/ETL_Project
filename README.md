@@ -27,3 +27,7 @@ Steps:
 4) Implement a DW with 4 Dimension tables and 1 Fact table.
 
 Obs.: The SQL Query used to load the Fact Table used a paremeter because of the machine's memory limitation.
+
+### Sample Details
+
+![](Etl_Sample.JPG)
