@@ -4,18 +4,18 @@ Available data from STM (Société de transport de Montréal - English: Montreal
 
 # Files:
 
-Agency.txt : Basic information about the STM
-Calendar.txt : Information about service availability
-Calendar_dates.txt : List of days included in assignment period
-Fare_attributes.txt : List of various STM fares
-Fare_rules.txt : Explains different fares for regular service and airport shuttle
-Feed.txt : Contains information about the feed itself
-Frequencies.txt : Defines the frequency of metro service
-Routes.txt : List of bus lines
-Shapes.txt : Definition of rules for drawing a bus line itinerary on map
-Stop_times.txt : Schedule of arrival times at bus stops
-Stops.txt : List of bus stops
-Trips.txt : Information about trip schedules
+- Agency.txt : Basic information about the STM
+- Calendar.txt : Information about service availability
+- Calendar_dates.txt : List of days included in assignment period
+- Fare_attributes.txt : List of various STM fares
+- Fare_rules.txt : Explains different fares for regular service and airport shuttle
+- Feed.txt : Contains information about the feed itself
+- Frequencies.txt : Defines the frequency of metro service
+- Routes.txt : List of bus lines
+- Shapes.txt : Definition of rules for drawing a bus line itinerary on ma
+- Stop_times.txt : Schedule of arrival times at bus stops
+- Stops.txt : List of bus stops
+- Trips.txt : Information about trip schedules
 
 # Goal:
 Organize the data so it is possible to produce operational reports based on the bus/metro schedule as well as providing analysts with tools to better understand the hidden patterns and anomalies with the bus and metro schedules.
